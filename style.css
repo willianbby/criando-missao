@@ -1,9 +1,9 @@
 :root {
-    --cor-fundo: #7A4EE5; /* Roxo suave */
-    --cor-principal: #FF6A13; /* Laranja quente */
-    --cor-secundaria: #6DFF3D; /* Verde limão */
-    --cor-destaque: #00F7FF; /* Azul turquesa */
-    --cor-texto: #FFFFFF; /* Branco */
+    --cor-fundo: #B2EBF2; /* Azul claro suave */
+    --cor-principal: #FF4081; /* Rosa forte */
+    --cor-secundaria: #FFEB3B; /* Amarelo brilhante */
+    --cor-destaque: #FFFFFF; /* Branco */
+    --cor-texto: #212121; /* Cinza escuro */
     --fonte-principal: 'Arial', sans-serif;
     --fonte-secundaria: 'Roboto', sans-serif;
 }
